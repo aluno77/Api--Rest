@@ -1,0 +1,8 @@
+node_modules
+README.md
+
+database/app.db
+database/test.db
+.env
+.env.test
+build
